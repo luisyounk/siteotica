@@ -90,7 +90,7 @@ html {
 }
 
 .container {
-  width: 1500px;
+  width: 1200px;
   /*margin-left: 150px;
   margin-right: 150px;*/
   position: relative;
@@ -110,8 +110,9 @@ h2 {
 
 .btn_social {
   position: absolute;
-  top: 150px;
+  top: 145px;
   right: 0px;
+
 }
 
 .map-responsive h1 {
