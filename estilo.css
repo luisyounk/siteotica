@@ -120,4 +120,9 @@ h2 {
   padding: 20px;
   border-bottom: 10px solid #75c5f0;
   text-transform: uppercase;
+  
+}
+
+.map-responsive{
+  margin-bottom: 100px;
 }
